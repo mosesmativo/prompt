@@ -1,4 +1,4 @@
-# Next.js CRUD Website with NextAuth.js and an API
+# Next.js CRUD PROMPT PLATFORM WITH NEXTAUTH
 This repository contains a Next.js website with CRUD functionality and authentication using NextAuth.js. The website also has a simple API that exposes endpoints for creating, reading, updating, and deleting data.
 
 ##NextAuth.js
